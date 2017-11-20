@@ -25,7 +25,7 @@
     {
       "name": "\"Outsider\" Jeonghoon Byun",
       "email": "outsideris@gmail.com",
-      "url": "https://github.com/ukiedev/summernote.git"
+      "url": "http://blog.outsider.ne.kr/"
     }
   ],
   "repository": {
@@ -33,7 +33,7 @@
     "url": "https://github.com/ukiedev/summernote.git"
   },
   "dependencies": {
-    "summernote": "~0.8.0",
+    "summernote": "https://github.com/ukiedev/summernote.git",
     "angular": "~1.5.0"
   },
   "devDependencies": {
